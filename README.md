@@ -9,7 +9,7 @@ Market Insight leverages advanced AI agents to deliver real-time stock market in
 ## Technology Stack
 
 **Backend:**
-- FastAPI for high-performance API endpoints
+- FastAPI for high-performance API endpoint
 - LangChain & LangGraph for AI agent orchestration
 - OpenAI GPT models for intelligent responses
 - YFinance for financial data retrieval
